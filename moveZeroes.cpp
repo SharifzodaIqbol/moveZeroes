@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 #include<vector>
 #include<list>
-uaing namespace std;
+using namespace std;
 class Solution {
 public:
 	void moveZeroes(vector<int>& nums) {
